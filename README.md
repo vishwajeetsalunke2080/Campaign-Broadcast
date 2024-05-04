@@ -17,11 +17,18 @@
   ## **※ Tech Stack:**
 1. Material UI
 2. Next.JS
+3. Saga Middleware
+4. React-Redux
    
 # Project Screenshots
-   !project_screenshots/login.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/login.png)
-   !project_screenshots/train_model.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/train_model.png)
-   !project_screenshots/create_campaign.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/create_campaign.png)
-   !project_screenshots/add_csv.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/add_csv.png)
-   !project_screenshots/add_video.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/add_video.png)
+1. Login Screen
+   ![project_screenshots/login.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/login.png)
+2.Train Model Screen
+   ![project_screenshots/train_model.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/train_model.png)
+3.Create Campaign Screen
+   ![project_screenshots/create_campaign.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/create_campaign.png)
+4.Add CSV screen
+   ![project_screenshots/add_csv.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/add_csv.png)
+5.Add Video File Screen
+   ![project_screenshots/add_video.png](https://github.com/vishwajeetsalunke2080/Campaign-Broadcast/blob/main/project_screenshots/add_video.png)
 
